@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTestApp</string>
+
+    <string name="to_second_fragment">to second fragment</string>
+    <string name="it_s_the_first_fragment">It`s the first Fragment</string>
+    <string name="it_s_the_second_fragment">It`s the second Fragment</string>
+    <string name="to_first_fragment">to first fragment</string>
+</resources>
